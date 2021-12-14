@@ -1,3 +1,10 @@
+/*
+ * @ Realised by ING ANYAM 
+ * @ Supervised by Dr NISSO Nicodem of ENSPM
+ * @ NATIONAL ADBANCED SCHOOL OF ENGENEERING OF MAROUA (ENSPM)
+ * @ 14 december 2021 
+ */
+
 #include <Bridge.h>
 #include <Temboo.h>
 #include <Process.h>
